@@ -12,6 +12,6 @@
 * You can Also Add A Widget On Home Screen.
 * The purpose of this project was to diagnose problems and practice improving apps. 
 
-<img width="40%" src="https://cloud.githubusercontent.com/assets/2931932/15270441/95bb27c6-1a28-11e6-8534-fdb3d9c13b8d.png" />
+<img width="40%" src="https://raw.githubusercontent.com/MohamedHashim/stock_Hawk/master/2016-12-04-19-57-44.png" />
 
 
