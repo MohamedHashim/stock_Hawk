@@ -65,7 +65,7 @@ public class DetailActivity extends AppCompatActivity  {
 
         String q = "select * from yahoo.finance.historicaldata where symbol = \""+symbol+"\" and startDate = \""+endDate+"\" and endDate = \""+startDate+"\"";
         String diagnostics = "true";
-        String env = "store://datatables.org/alltableswithkeys";
+        String env = String.valueOf(R.string.env);
         String format = "json";
         QuoteApi.getHistoricalData(q, diagnostics, env, format, new Callback<Result>() {
             @Override

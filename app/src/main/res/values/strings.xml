@@ -39,4 +39,6 @@
     <string name="spineer_title">Stock history range</string>
     <string name="network">Update Error</string>
     <string name="addastock">Add a Stock</string>
+    <string name="saved_stock">This stock is already saved!</string>
+    <string name="env">store://datatables.org/alltableswithkeys</string>
 </resources>
